@@ -1,0 +1,11 @@
+.stat .h1 {
+  font-size: 80px;
+}
+
+.stat {
+  text-align: center;
+}
+
+.stat p {
+  font-size: 30px;
+}
